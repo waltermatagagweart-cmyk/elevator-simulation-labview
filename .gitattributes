@@ -1,0 +1,4 @@
+*.vi     binary
+*.ctl    binary
+*.lvproj text eol=crlf
+*.png    binary

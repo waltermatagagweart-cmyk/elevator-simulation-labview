@@ -1,0 +1,8 @@
+# LabVIEW per-user and build output
+*.aliases
+*.lvlps
+.*.UserState/
+builds/
+
+# Office lock files
+~$*
